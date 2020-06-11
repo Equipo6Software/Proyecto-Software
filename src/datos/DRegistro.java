@@ -25,6 +25,7 @@ public class DRegistro {
 
     public String getNombre_de_la_asignatura() {
         return Nombre_de_la_asignatura;
+        
     }
 
     public void setNombre_de_la_asignatura(String Nombre_de_la_asignatura) {

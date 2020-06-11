@@ -214,7 +214,8 @@ GRUPO gru=new GRUPO();
     public PrincipalDocente(String TU){
         initComponents();
         if(TU=="A"){
-        //    jButton9.setEnabled(false);
+        
+           //    jButton9.setEnabled(false);
         }
     }
     
